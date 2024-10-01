@@ -1,7 +1,7 @@
 class JudgeVerification {
     constructor(page, expectedCount) {
         this.page = page;
-        this.expectedCount = 5; 
+        this.expectedCount = 6; 
     }
 
     async verifyJudges() {
