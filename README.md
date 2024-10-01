@@ -1,7 +1,7 @@
 # Pre-conditions
 Before you begin, ensure that you have the following tools installed:
 
-1. An operating system (*Windows*, *MacOS*, *Linux*) on the machine being used
+1. An operating system (preferably *Windows*) on the machine being used
 2. Any code editor (e.g., *Visual Studio Code*) - https://code.visualstudio.com/download
 3. **Node.js** version 14 or newer - https://nodejs.org/en/download/prebuilt-installer
 4. **git** - https://git-scm.com/downloads
